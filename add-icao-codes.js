@@ -138,7 +138,9 @@ Only respond with valid JSON, nothing else.`;
             'MAD': 'LEMD', 'BCN': 'LEBL', 'LIS': 'LPPT', 'OPO': 'LPPR',
             'FCO': 'LIRF', 'MXP': 'LIMC', 'LIN': 'LIML', 'VCE': 'LIPZ',
             'ATH': 'LGAV', 'SKG': 'LGTS', 'BUD': 'LHBP', 'PRG': 'LKPR',
-            'WAW': 'EPWA', 'KRK': 'EPKK', 'BRU': 'EBBR', 'LUX': 'ELLX'
+            'WAW': 'EPWA', 'KRK': 'EPKK', 'BRU': 'EBBR', 'LUX': 'ELLX',
+            // Eastern Europe
+            'KIV': 'LUKK', 'KVP': 'LUTR'  // Moldova - corrected based on MSFS2024
         };
 
         return knownMappings[iataCode] || null;
