@@ -9,3 +9,7 @@
 /beautiful-cities-1.json
 /beautiful-cities-backup.json
 /beautiful-cities-cleaned.json
+# ignore all json files in the folder but package.json and package-lock.json
+*.json
+!/package.json
+!package-lock.json
