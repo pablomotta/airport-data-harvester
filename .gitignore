@@ -1,0 +1,11 @@
+/node_modules
+/package-lock.json
+/package.json
+/airports-by-category.json
+/airports-categorized.json
+/airports-flat.json
+/airports-found.json
+/airports-summary.json
+/beautiful-cities-1.json
+/beautiful-cities-backup.json
+/beautiful-cities-cleaned.json
